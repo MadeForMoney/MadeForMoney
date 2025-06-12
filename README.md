@@ -14,6 +14,7 @@ while (!success) {
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+Google Vertex AI: ![Vertex AI](https://img.shields.io/badge/-Vertex_AI-4285F4?style=flat-square&logo=google-cloud&Keras:** ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white:** ![IBM Watson](https://img.shields.io/badge/-IBM_Watson-BE95FF?style=flat-square&logo=ibm&logo badge color, as no official badge exists for IBM Watson yet.)*
 
 ---
 
