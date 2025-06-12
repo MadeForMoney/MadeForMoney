@@ -1,12 +1,8 @@
 # About-me
 # Hi there, I'm Nithi 👋
 
-Building stuff that doesn’t break. (Usually.)
-
-##js
-while (!success) {
-   tryAgain();
-}
+Turning noise into knowledge
+#ml while not smart: learn(data)
 
 ---
 
@@ -40,6 +36,7 @@ while (!success) {
 
 ## ☕ Fun Facts
 - I treat commit messages like tiny journal entries.
+- Training models, not muscles
 - My browser tabs have tabs.
 - I once debugged a bug that was caused by a comment. 😵
 
