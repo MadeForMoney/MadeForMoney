@@ -11,12 +11,12 @@ while (!success) {
 ---
 
 ## 🔨 Tools of My Trade
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vertex AI](https://img.shields.io/badge/-Vertex_AI-4285F4?style=flat-square&logo=google-cloud&Keras:** )
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white:**)
-![IBM Watson](https://img.shields.io/badge/-IBM_Watson-BE95FF?style=flat-square&logo=ibm&logo)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=pythonFlow)
+![ScikitLearn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=whiteMaker)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=whitedown)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=djangodown:** )
+![Gemini AI](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat-square&logo=google-cloud&Keras:** )
+
 
 ---
 
