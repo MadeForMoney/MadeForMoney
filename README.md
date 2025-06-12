@@ -21,7 +21,7 @@ while (!success) {
 ---
 
 ## 📌 Featured Projects
-- 🔹 [CSV-ChatBot](https://github.com/MadeForMoney/Intelligent-CSV-Assistant-LLM-Powered.git)– Just a sample webpage using pure css
+- 🔹 [CSV-ChatBot](https://github.com/MadeForMoney/Intelligent-CSV-Assistant-LLM-Powered.git)– Just a simple ChatBot to interact with csv files
 
 
 ---
@@ -33,7 +33,9 @@ while (!success) {
 ---
 
 ## 🕸️ You Can Find Me Here (Not in a spider sense)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/dhanuprakash-dhanasekaran-223a18265/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/nithilanm23/)
+
+)
 
 
 ## ☕ Fun Facts
