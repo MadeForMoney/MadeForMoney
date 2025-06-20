@@ -33,7 +33,7 @@ Turning noise into knowledge.
 ---
 
 ## 🕸️ You Can Find Me Here (Not in a spider sense)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/nithilanm23/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/nithilanm23)
 
 
 
