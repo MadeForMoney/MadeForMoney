@@ -1,9 +1,9 @@
 # About-me
 # Hi there, I'm Nithi 👋
 
-Turning noise into knowledge.
+# ML while not smart: learn(data)
 
-# ml while not smart: learn(data)
+Turning noise into knowledge.
 
 ---
 
