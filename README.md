@@ -26,7 +26,7 @@ Turning noise into knowledge.
 ---
 
 ## 📈 Stats That Prove I Don’t Just Stare at the Terminal
-![Nithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadeForMoney&show_icons=true&theme=radical)
+![Nithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadeForMoney&show_icons=true&theme=radical&cache_seconds=1)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeForMoney&layout=compact&theme=radical)
 
 ---
@@ -34,7 +34,7 @@ Turning noise into knowledge.
 ## 🕸️ You Can Find Me Here (Not in a spider sense)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/nithilanm23/)
 
-)
+
 
 
 ## ☕ Fun Facts
