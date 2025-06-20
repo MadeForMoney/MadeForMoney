@@ -26,8 +26,8 @@ Turning noise into knowledge.
 ---
 
 ## 📈 Stats That Prove I Don’t Just Stare at the Terminal
-![Nithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadeForMoney&show_icons=true&theme=radical&cache_seconds=43200 )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeForMoney&layout=compact&langs_count=10&hide_progress=false&theme=radical&cache_seconds=2)
+![Nithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadeForMoney&show_icons=true&theme=radical&cache_seconds=43200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeForMoney&layout=compact&langs_count=10&hide_progress=false&theme=radical&cache_seconds=43200)
 
 
 ---
