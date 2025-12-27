@@ -89,7 +89,7 @@ I work on **Machine Learning, Computer Vision, and NLP systems**, with a strong 
 - 🥈 **AIR 16** – Responsible AI  
 - 🎓 B.Tech AI & DS (3rd Year)  
 - 📊 CGPA: **8.9 / 10**
-- 💼 Internship experience in **Data Analytics & ML Systems**
+- 💼 Internship experience in **Data Analytics, Data Scienist & AI-ML Systems**
 
 
 ---
