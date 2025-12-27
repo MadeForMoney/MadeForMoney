@@ -14,13 +14,28 @@ I work on **Machine Learning, Computer Vision, and NLP systems**, with a strong 
 - **Computer Vision**
   - Anomaly Detection (ViSA, industrial inspection)
   - Lightweight architectures & representation learning
+
 - **NLP & RAG Systems**
   - PDF / CSV based Retrieval-Augmented Generation
   - FAISS, Pinecone, chunking, embeddings
+
 - **ML Systems**
   - Pipeline design, evaluation, and ablation thinking
   - Bridging research ideas → deployable systems
+
+- **Self-Evolving AI Systems**
+  - Designed agents that iteratively improve outputs using feedback loops
+  - Focus on autonomy, adaptation, and long-term performance improvement
+
+- **End-to-End Predictive Systems**
+  - Built and deployed an **F1 Race Outcome Predictor**
+  - Covered the full pipeline: data ingestion → feature engineering → model training → deployment → inference
+
 - **Responsible & Explainable AI**
+  - Integrated explainability mechanisms into self-evolving AI systems
+  - Used lightweight adaptation strategies (e.g., PEFT-style updates) to enable safe, controlled learning
+  - Focused on transparency, stability, and preventing uncontrolled model drift
+
 
 ---
 
@@ -48,8 +63,12 @@ I work on **Machine Learning, Computer Vision, and NLP systems**, with a strong 
 - 🔹 **AI-based Clinic Triage System**  
   NLP-based triage classification & symptom extraction using SpaCy with a Flask backend.
 
+- 🔹 **[F1 Race Outcome Predictor – Web App](https://f1predictor.onrender.com/)**  
+  End-to-end ML system for predicting F1 race outcomes, covering data ingestion, feature engineering, model training, deployment, and live inference via a web interface.
+
 - 🔹 **[Django Blog Application](https://github.com/MadeForMoney/Blog-app)**  
   Full-stack Django app with MySQL backend and dynamic HTML frontend.
+
 
 ---
 
