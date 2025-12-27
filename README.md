@@ -1,62 +1,94 @@
-# About-me
 # Hi there, I'm Nithi 👋
 
-# ML while not smart: learn(data)
+### AI & Data Science Undergraduate | Research-oriented ML Engineer
 
-Turning noise into knowledge.
+I work on **Machine Learning, Computer Vision, and NLP systems**, with a strong interest in  
+**research-driven problem solving and end-to-end ML pipelines**.
+
+> Turning data into understanding — and models into systems.
+
+---
+
+## 🔬 What I Work On
+
+- **Computer Vision**
+  - Anomaly Detection (ViSA, industrial inspection)
+  - Lightweight architectures & representation learning
+- **NLP & RAG Systems**
+  - PDF / CSV based Retrieval-Augmented Generation
+  - FAISS, Pinecone, chunking, embeddings
+- **ML Systems**
+  - Pipeline design, evaluation, and ablation thinking
+  - Bridging research ideas → deployable systems
+- **Responsible & Explainable AI**
 
 ---
 
 ## 🔨 Tools of My Trade
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=pythonFlow)
-![ScikitLearn](https://img.shields.io/badge/-Scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=whiteMaker)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=whitedown)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=djangodown:** )
-![Gemini AI](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat-square&logo=google-cloud&Keras:** )
-![Html](https://camo.githubusercontent.com/c0f60c84bd23525a0f1e5972ff5052f878eb4104e88b347b7f0004d0e6ad8898/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![ScikitLearn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
-- 🔹 [CSV-ChatBot](https://github.com/MadeForMoney/Intelligent-CSV-Assistant-LLM-Powered.git)– Just a simple ChatBot to interact with csv files
-- 🔹 [Blog-App](https://github.com/MadeForMoney/Blog-app)- A simple Django-powered blog application with a MySQL database and dynamic HTML frontend.
 
+- 🔹 **[Intelligent CSV Assistant (LLM-Powered)](https://github.com/MadeForMoney/Intelligent-CSV-Assistant-LLM-Powered.git)**  
+  Chat with CSV files using LLMs — supports column explanation, NaN detection, and data insights.
+
+- 🔹 **RAG Chatbots (PDF / Website Data)**  
+  Built multiple RAG systems using FAISS & Pinecone for academic content and real company data.
+
+- 🔹 **AI-based Clinic Triage System**  
+  NLP-based triage classification & symptom extraction using SpaCy with a Flask backend.
+
+- 🔹 **[Django Blog Application](https://github.com/MadeForMoney/Blog-app)**  
+  Full-stack Django app with MySQL backend and dynamic HTML frontend.
 
 ---
 
-## 📈 Stats That Prove I Don’t Just Stare at the Terminal
+## 🏆 Highlights
+
+- 🥇 **AIR 5** – Introduction to Large Language Models  
+- 🥈 **AIR 16** – Responsible AI  
+- 🎓 B.Tech AI & DS (3rd Year)  
+- 📊 CGPA: **8.9 / 10**
+- 💼 Internship experience in **Data Analytics & ML Systems**
+
+---
+
+## 📈 GitHub Stats
+
 ![Nithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadeForMoney&show_icons=true&theme=radical&cache_seconds=43200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeForMoney&layout=compact&langs_count=10&hide_progress=false&theme=radical&cache_seconds=43200)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeForMoney&layout=compact&langs_count=8&theme=radical&cache_seconds=43200)
 
 ---
 
-## 🕸️ You Can Find Me Here (Not in a spider sense)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nithilanm23/)
+## 🌍 Looking Ahead
 
+- Research internships (India & abroad)
+- Deeper work in **Computer Vision & Multimodal Learning**
+- Preparing for **MS / Research roles (Germany-focused)**
 
+---
 
+## 🕸️ Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nithi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nithilanm23/)
+
+---
 
 ## ☕ Fun Facts
-- I treat commit messages like tiny journal entries.
-- Training models, not muscles
-- My browser tabs have tabs.
-- I once debugged a bug that was caused by a comment. 😵
 
-> If you’ve read this far, you might as well ⭐ one of my repos.
+- I treat commit messages like tiny research notes.
+- I enjoy reading papers more than model zoo repos.
+- My browser tabs have ablations.
+- I once debugged a bug caused by a *comment*. 😵
 
-<!--
-**MadeForMoney/MadeForMoney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> If you’ve read this far, you might as well ⭐ a repo.
