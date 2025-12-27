@@ -12,7 +12,7 @@ I work on **Machine Learning, Computer Vision, and NLP systems**, with a strong 
 ## 🔬 What I Work On
 
 - **Computer Vision**
-  - Anomaly Detection (ViSA, industrial inspection)
+  - Anomaly Detection
   - Lightweight architectures & representation learning
 
 - **NLP & RAG Systems**
@@ -91,12 +91,6 @@ I work on **Machine Learning, Computer Vision, and NLP systems**, with a strong 
 - 📊 CGPA: **8.9 / 10**
 - 💼 Internship experience in **Data Analytics & ML Systems**
 
----
-
-## 📈 GitHub Stats
-
-![Nithi's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadeForMoney&show_icons=true&theme=radical&cache_seconds=43200)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadeForMoney&layout=compact&langs_count=8&theme=radical&cache_seconds=43200)
 
 ---
 
@@ -104,7 +98,11 @@ I work on **Machine Learning, Computer Vision, and NLP systems**, with a strong 
 
 - Research internships (India & abroad)
 - Deeper work in **Computer Vision & Multimodal Learning**
-- Preparing for **MS / Research roles (Germany-focused)**
+- Building **robust ML systems** that scale beyond experiments
+- Publishing or contributing to **research-grade projects**
+- Preparing for **AI-ML-DS related job roles**
+
+
 
 ---
 
@@ -120,5 +118,11 @@ I work on **Machine Learning, Computer Vision, and NLP systems**, with a strong 
 - I enjoy reading papers more than model zoo repos.
 - My browser tabs have ablations.
 - I once debugged a bug caused by a *comment*. 😵
+- I trust learning curves more than accuracy scores.
+- I’ve broken models on purpose just to understand why they worked.
+- I read architecture diagrams before reading conclusions.
+- I care more about *failure cases* than perfect results.
+- I believe a good baseline can be more impressive than a complex model.
+
 
 > If you’ve read this far, you might as well ⭐ a repo.
